@@ -373,7 +373,7 @@ class Jeu:
 
     def afficher_menu(self):
         police_titre = pygame.font.Font(None, 84)
-        texte_titre = police_titre.render("🐍 MON JEU DE SERPENT 🐍", True, VERT)
+        texte_titre = police_titre.render("🐍 SERPENT PRO 🐍", True, VERT)
         ecran.blit(texte_titre, texte_titre.get_rect(center=(LARGEUR // 2, 150)))
         
         police = pygame.font.Font(None, 42)
