@@ -30,17 +30,21 @@ Pygame 2.0 ou supérieur
 Étapes d'installation
 
 Clonez le dépôt :
-
-bashgit clone https://github.com/maoloudseye/JeuDeSerpent.git
+```
+git clone https://github.com/maoloudseye/JeuDeSerpent.git
 cd serpent-pro
+````
 
 Installez les dépendances :
-
-bashpip install pygame
+```
+pip install pygame
+````
 
 Lancez le jeu :
-
+```
 bashpython jeu.py
+```
+
 Contrôles
 
 Flèches directionnelles : Diriger le serpent
