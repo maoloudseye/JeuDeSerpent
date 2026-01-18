@@ -49,8 +49,8 @@ Serpent Pro est une version améliorée du jeu classique Snake avec de nombreuse
 Clonez le dépôt :
 
 ```bash
-git clone https://github.com/votre-username/serpent-pro.git
-cd serpent-pro
+git clone https://github.com/maoloudseye/JeuDeSerpent.git
+cd JeuDeSerpent
 ```
 
 Installez les dépendances :
@@ -126,16 +126,16 @@ Les contributions sont les bienvenues ! N'hésitez pas à :
 
 # **📜 Licence**
 
-Ce projet est sous licence MIT. Voir le fichier LICENSE pour plus de détails.
+Ce projet est sous licence MIT et Open source
 
 # **👤 Auteur**
 
-Votre Nom
+Maoloud Seye
 
-GitHub: @votre-username
+GitHub: @maoloudseye
 
 # **🙏 Remerciements**
-
+Mon professeur : M. Tidjani Top
 Inspiré du jeu classique Snake  
 Développé avec ❤️ et Python
 
