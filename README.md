@@ -31,7 +31,7 @@ Pygame 2.0 ou supérieur
 
 Clonez le dépôt :
 
-bashgit clone https://github.com/votre-username/serpent-pro.git
+bashgit clone https://github.com/maoloudseye/JeuDeSerpent.git
 cd serpent-pro
 
 Installez les dépendances :
