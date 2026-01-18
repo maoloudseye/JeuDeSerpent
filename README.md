@@ -2,9 +2,6 @@
 
 Un jeu du serpent moderne et amélioré développé avec Python et Pygame.
 
-Afficher l'image
-Afficher l'image
-Afficher l'image
 
 # **📋 Description**
 
